@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignInMaui", "SignInMaui\SignInMaui.csproj", "{12796BB3-A7F5-4A00-802D-B11163BF0EDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12796BB3-A7F5-4A00-802D-B11163BF0EDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12796BB3-A7F5-4A00-802D-B11163BF0EDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12796BB3-A7F5-4A00-802D-B11163BF0EDA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{12796BB3-A7F5-4A00-802D-B11163BF0EDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12796BB3-A7F5-4A00-802D-B11163BF0EDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12796BB3-A7F5-4A00-802D-B11163BF0EDA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F4801EA-56A1-499A-91A1-F17FCB9D9860}
+	EndGlobalSection
+EndGlobal
